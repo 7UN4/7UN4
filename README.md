@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=7UN4%&fontSize=90)
-###👋 Hi there 👋
+
+👋 Hi there 👋
 
 <div align="center">Tech Stack</div>
 <div align="center">
