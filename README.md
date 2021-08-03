@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=7UN4%&fontSize=100)<br>
-<h2 align="center">👋 Hi there 👋</h2><br>
-<h2 align="center">⚔ Tech Stack ⚔</h2>
+<h3 align="center">👋 Hi there 👋</h3><br>
+<h3 align="center">⚔ Tech Stack ⚔</h3>
 <div align="center" display="inline-block">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
