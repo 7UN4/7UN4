@@ -2,7 +2,7 @@
 # 💻 Malware Analyst 💻<br/>
 ## 🔥 Interested in 🔥
 - Malware Analysis
-- Reversing / Pwnable
+- Reversing / Pwnable / ...
 - ML / DL
 - etc...
 
