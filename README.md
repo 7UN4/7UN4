@@ -18,7 +18,16 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/WebAuthn-3423A6?style=flat-square&logo=WebAuthn&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white">
 </div>
