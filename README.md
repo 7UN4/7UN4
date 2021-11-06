@@ -2,8 +2,8 @@
 # 💻 Malware Analyst 💻<br/>
 ## 🔥 Interested in 🔥
 - Malware Analysis
-- Machine Learning / Deap Learning
 - Reversing / Pwnable
+- ML / DL
 - etc...
 
 ## ⚔ Tech Stack ⚔
