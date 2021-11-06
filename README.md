@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=7UN4%&fontSize=100)<br>
-<h3 align="center">👋 Hi there 👋</h3><br>
-<h3 align="center">⚔ Tech Stack ⚔</h3>
+<h2 align="center">👋 Hi there 👋</h2><br>
+<h2 align="center">⚔ Tech Stack ⚔</h2>
 <div align="center" display="inline-block">
   <a href="https://developer.android.com" target="_blank">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
